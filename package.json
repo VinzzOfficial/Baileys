@@ -7,7 +7,7 @@
         "baileys",
         "whatsapp-web",
         "whatsapp-chat",
-        "whatsapp-group",
+        "whatsapp-group"
     ],
     "license": "MIT",
     "author": "vinzz",
