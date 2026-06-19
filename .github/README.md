@@ -1,17 +1,17 @@
-# DevilFight/Baileys - WhatsApp Bot Framework 2026 Spesial Edition
+# VinzzOfficial/Baileys - WhatsApp Bot Framework 2026 Spesial Edition
 
 <p align="center">
-  <img src="https://ar-hosting.pages.dev/1776085648324.png" width="300" alt="DevilFight/Baileys" />
+  <img src="https://ar-hosting.pages.dev/1776085648324.png" width="300" alt="VinzzOfficial/Baileys" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/DevilFight/Baileys"><img src="https://img.shields.io/github/stars/DevilFight/Baileys?style=for-the-badge" alt="Stars"></a>
-  <a href="https://www.npmjs.com/package/@devil-fight/baileys"><img src="https://img.shields.io/npm/v/@devil-fight/baileys?style=for-the-badge" alt="NPM"></a>
+  <a href="https://github.com/VinzzOfficial/Baileys"><img src="https://img.shields.io/github/stars/VinzzOfficial/Baileys?style=for-the-badge" alt="Stars"></a>
+  <a href="https://www.npmjs.com/package/@devil-fight/baileys"><img src="https://img.shields.io/npm/v/@VinzzOfficial/baileys?style=for-the-badge" alt="NPM"></a>
 </p>
 
 ---
 
-**DevilFight/Baileys** adalah versi modifikasi dari [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys), dirancang khusus untuk para developer bot WhatsApp di tahun 2026. Fokus utama versi ini adalah kestabilan pairing code, session auto-recovery, dan fitur tambahan eksklusif yang tidak tersedia di versi original.
+**VinzzOfficial/Baileys** adalah versi modifikasi dari [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys), dirancang khusus untuk para developer bot WhatsApp di tahun 2026. Fokus utama versi ini adalah kestabilan pairing code, session auto-recovery, dan fitur tambahan eksklusif yang tidak tersedia di versi original.
 
 ---
 
@@ -30,6 +30,6 @@
 ## Instalasi
 
 ```bash
-npm install github:DevilFight/Baileys
+npm install @VinzzOfficial/Baileys
 
 ```
