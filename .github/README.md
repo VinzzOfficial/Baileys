@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/VinzzOfficial/Baileys"><img src="https://img.shields.io/github/stars/VinzzOfficial/Baileys?style=for-the-badge" alt="Stars"></a>
-  <a href="https://www.npmjs.com/package/@devil-fight/baileys"><img src="https://img.shields.io/npm/v/@VinzzOfficial/baileys?style=for-the-badge" alt="NPM"></a>
+  <a href="https://www.npmjs.com/package/@vinzzofficial/baileys"><img src="https://img.shields.io/npm/v/@vinzzofficial/baileys?style=for-the-badge" alt="NPM"></a>
 </p>
 
 ---
