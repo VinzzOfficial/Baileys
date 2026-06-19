@@ -30,6 +30,6 @@
 ## Instalasi
 
 ```bash
-npm install @VinzzOfficial/Baileys
+npm install @vinzzofficial/baileys
 
 ```
